@@ -1,0 +1,30 @@
+body{
+    color: white;
+    font-size: 20px;
+    font-stretch: expanded;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.conteiner {
+    width: 650px;
+    margin: 0 auto;
+    background-color: #EE9DAE;
+    padding: 5px;
+   
+}
+
+.list_item {
+    background-color: #C66378;
+    margin: 14px 18px 0px 6px;
+    padding: 10px 0px 10px 18px;
+    list-style-position: inside;
+       
+}
+
+.list_items{
+    padding: 0px 5px 0px 20px;
+}
+
+.item_text{
+    background-color :#9C3752;
+    padding: 10px 15px 10px 15px;
+}
